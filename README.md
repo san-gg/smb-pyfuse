@@ -153,4 +153,4 @@ fs.main()
 
 ## License
 
-MIT
+[MIT](LICENSE)
